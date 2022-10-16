@@ -129,8 +129,7 @@ $ git push -u origin master
 $ git clone [https://github.com/muhammadzidanfadilah/labpy1.git]
 
 
-![Gambar1](GAMBAR/24.jpeg)
-
+![Gambar1](GAMBAR/25.jpeg)
 ## Kegunaan file README.md
 
 #### - Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md.
