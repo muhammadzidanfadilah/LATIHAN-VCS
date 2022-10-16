@@ -79,7 +79,7 @@ $ git add README.md
 #### - Untuk menyimpan perubahan yang ada kedalam databse repository lokal, gunakan perintah git commit -m "komentar commit"
 #### - Perubahann berhasil disimpan
 
-![Gambar1](GAMBAR/23.jpg)
+![Gambar1](GAMBAR/6.jpg)
 
 ## Membuat Reposity Server
 
@@ -88,7 +88,7 @@ $ git add README.md
 #### - Pada laman github, klik tombol start a project, atau 
 ####   dari menu (icon +) klik New Repository.
 
-![Gambar1](GAMBAR/12.png)
+![Gambar1](GAMBAR/23.png)
 #### - Isi nama repositorynya, misal: labpy.
 #### - Lalu klik tombol Create repository.
 
