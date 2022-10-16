@@ -88,7 +88,7 @@ $ git add README.md
 #### - Pada laman github, klik tombol start a project, atau 
 ####   dari menu (icon +) klik New Repository.
 
-![Gambar1](GAMBAR/7.jpeg)
+![Gambar1](GAMBAR/12.jpg)
 #### - Isi nama repositorynya, misal: labpy.
 #### - Lalu klik tombol Create repository.
 
