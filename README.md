@@ -101,7 +101,7 @@ $ git add README.md
 #### - Untuk menambahkan remote repository server, gunakanlah perintah
 ####  Git remote add origin [url]
 
-$ git remote add https://github.com/muhammadzidanfadilah/labpy1.git
+$ git remote add https://github.com/muhammadzidanfadilah/labpy.git
 
 ## Push ( Mengirim Perubahan ke Server)
 
@@ -127,7 +127,7 @@ $ git push -u origin master
 #### - Untuk melakukan cloning, gunakan perintah git clone [url]
 
 
-$ git clone [https://github.com/muhammadzidanfadilah/labpy1.git]
+$ git clone [https://github.com/muhammadzidanfadilah/labpy.git]
 
 
 ![Gambar1](GAMBAR/28.jpeg)
