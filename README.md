@@ -111,14 +111,14 @@ $ git push -u origin master
 
 #### - Perintah ini akan meminta memasukkan username dan password pada akun anda di github.com
 
-![Gambar1](GAMBAR/11.jpeg)
+![Gambar1](GAMBAR/27.jpeg)
 
 ## Melihat Hasilnya pada Server Repository
 
 #### - Buka laman github.com, arahkan pada repositorynya
 #### - Maka perubahan akan terlihat pada laman tersebut
 
-![Gambar1](GAMBAR/20.jpg)
+![Gambar1](GAMBAR/26.jpeg)
 
 
 ## Clone Repository
