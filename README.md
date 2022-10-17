@@ -93,7 +93,7 @@ $ git add README.md
 #### - Isi nama repositorynya, misal: labpy.
 #### - Lalu klik tombol Create repository.
 
-![Gambar1](GAMBAR/20.jpg)
+![Gambar1](GAMBAR/30.jpeg)
 
 ## Menambahkan Remote Repository
 
@@ -118,7 +118,7 @@ $ git push -u origin master
 #### - Buka laman github.com, arahkan pada repositorynya
 #### - Maka perubahan akan terlihat pada laman tersebut
 
-![Gambar1](GAMBAR/20.jpg)
+![Gambar1](GAMBAR/30.jpeg)
 
 
 ## Clone Repository
