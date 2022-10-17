@@ -118,7 +118,7 @@ $ git push -u origin master
 #### - Buka laman github.com, arahkan pada repositorynya
 #### - Maka perubahan akan terlihat pada laman tersebut
 
-![Gambar1](GAMBAR/26.jpeg)
+![Gambar1](GAMBAR/23.jpeg)
 
 
 ## Clone Repository
@@ -130,7 +130,7 @@ $ git push -u origin master
 $ git clone [https://github.com/muhammadzidanfadilah/labpy1.git]
 
 
-![Gambar1](GAMBAR/25.jpeg)
+![Gambar1](GAMBAR/26.jpeg)
 ## Kegunaan file README.md
 
 #### - Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md.
