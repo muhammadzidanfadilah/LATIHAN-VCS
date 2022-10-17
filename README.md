@@ -111,7 +111,7 @@ $ git push -u origin master
 
 #### - Perintah ini akan meminta memasukkan username dan password pada akun anda di github.com
 
-![Gambar1](GAMBAR/27.jpeg)
+![Gambar1](GAMBAR/29.jpeg)
 
 ## Melihat Hasilnya pada Server Repository
 
@@ -130,7 +130,7 @@ $ git push -u origin master
 $ git clone [https://github.com/muhammadzidanfadilah/labpy1.git]
 
 
-![Gambar1](GAMBAR/26.jpeg)
+![Gambar1](GAMBAR/28.jpeg)
 ## Kegunaan file README.md
 
 #### - Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md.
